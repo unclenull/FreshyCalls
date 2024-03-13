@@ -1,4 +1,4 @@
-## FreshyCalls: Syscalls Freshly Squeezed!
+## [FreshyCalls: Syscalls Freshly Squeezed!](https://web.archive.org/web/20200621162123/https://www.crummie5.club/freshycalls/)
 > This library was made for **academic purposes only**. The authors are not responsible for what is given to this library and therefore we are exempt from any liability arising from the misuse of it.
 
 **Uses C++17**
@@ -21,4 +21,4 @@ syscall.CallSyscall("NtOpenProcessToken", HANDLE(-1), TOKEN_ADJUST_PRIVILEGES, &
 
 Be aware we have released this library "for fun" and it is by no means perfect. You should expect some bugs.
 
-You can find an example of how to use it [here](https://github.com/Crummie5/Freshycalls_PoC) and a post explaining it a little more [here](https://www.crummie5.club/freshycalls/)
+You can find an example of how to use it [here](https://github.com/Crummie5/Freshycalls_PoC) and a post explaining it a little more [here]([https://www.crummie5.club/freshycalls/](https://web.archive.org/web/20200621162123/https://www.crummie5.club/freshycalls/)https://web.archive.org/web/20200621162123/https://www.crummie5.club/freshycalls/)
